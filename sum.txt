@@ -1,0 +1,331 @@
+整理的librec各种算法测试结果总结
+
+18/02/02 14:32:00 INFO ConstantGuessRecommender: Job End.
+18/02/02 14:32:00 INFO RecommenderJob: Evaluator value:MSE is 1.420600479819362
+18/02/02 14:32:00 INFO RecommenderJob: Evaluator value:RMSE is 1.1918894578858235
+18/02/02 14:32:00 INFO RecommenderJob: Evaluator value:MAE is 1.0551086649731867
+18/02/02 14:32:00 INFO RecommenderJob: Evaluator value:MPE is 1.0
+18/02/02 14:32:00 INFO RecommenderJob: Result path is ../result/filmtrust/rating-constantguess-output/constantguess
+
+
+
+18/02/02 14:32:01 INFO GlobalAverageRecommender: Job End.
+18/02/02 14:32:01 INFO RecommenderJob: Evaluator value:MSE is 0.8455905780691007
+18/02/02 14:32:01 INFO RecommenderJob: Evaluator value:RMSE is 0.919559991555255
+18/02/02 14:32:01 INFO RecommenderJob: Evaluator value:MAE is 0.7134762776471231
+18/02/02 14:32:01 INFO RecommenderJob: Evaluator value:MPE is 0.7761783799040362
+18/02/02 14:32:01 INFO RecommenderJob: Result path is ../result/filmtrust/rating-globalaverage-output/globalaverage
+
+
+
+18/02/02 14:32:01 INFO ItemAverageRecommender: Job End.
+18/02/02 14:32:01 INFO RecommenderJob: Evaluator value:MSE is 0.858894779752652
+18/02/02 14:32:01 INFO RecommenderJob: Evaluator value:RMSE is 0.9267657631530484
+18/02/02 14:32:01 INFO RecommenderJob: Evaluator value:MAE is 0.7247433684102933
+18/02/02 14:32:01 INFO RecommenderJob: Evaluator value:MPE is 0.9737510584250635
+18/02/02 14:32:01 INFO RecommenderJob: Result path is ../result/filmtrust/rating-itemaverage-output/itemaverage
+
+
+18/02/02 14:32:38 INFO ItemClusterRecommender: Job End.
+18/02/02 14:32:38 INFO RecommenderJob: Evaluator value:MSE is 0.8174237933813109
+18/02/02 14:32:38 INFO RecommenderJob: Evaluator value:RMSE is 0.9041149226626618
+18/02/02 14:32:38 INFO RecommenderJob: Evaluator value:MAE is 0.7171686578548142
+18/02/02 14:32:38 INFO RecommenderJob: Evaluator value:MPE is 0.9991532599491956
+18/02/02 14:32:38 INFO RecommenderJob: Result path is ../result/filmtrust/rating-itemcluster-output/itemcluster
+
+
+
+
+18/02/02 14:32:38 INFO RandomGuessRecommender: Job End.
+18/02/02 14:32:38 INFO RecommenderJob: Evaluator value:MSE is 2.4719906562118803
+18/02/02 14:32:38 INFO RecommenderJob: Evaluator value:RMSE is 1.572256549107645
+18/02/02 14:32:38 INFO RecommenderJob: Evaluator value:MAE is 1.293515302260018
+18/02/02 14:32:38 INFO RecommenderJob: Evaluator value:MPE is 0.9961896697713802
+18/02/02 14:32:38 INFO RecommenderJob: Result path is ../result/filmtrust/rating-randomguess-output/randomguess
+
+
+
+18/02/02 14:32:39 INFO UserAverageRecommender: Job End.
+18/02/02 14:32:39 INFO RecommenderJob: Evaluator value:MSE is 0.6824501730000522
+18/02/02 14:32:39 INFO RecommenderJob: Evaluator value:RMSE is 0.8261054248702475
+18/02/02 14:32:39 INFO RecommenderJob: Evaluator value:MAE is 0.6397103396803296
+18/02/02 14:32:39 INFO RecommenderJob: Evaluator value:MPE is 0.9777025119954841
+18/02/02 14:32:39 INFO RecommenderJob: Result path is ../result/filmtrust/rating-useraverage-output/useraverage
+
+
+
+18/02/02 14:32:45 INFO UserClusterRecommender: Job End.
+18/02/02 14:32:45 INFO RecommenderJob: Evaluator value:MSE is 0.686075844052425
+18/02/02 14:32:45 INFO RecommenderJob: Evaluator value:RMSE is 0.8282969540282187
+18/02/02 14:32:45 INFO RecommenderJob: Evaluator value:MAE is 0.6443215241920306
+18/02/02 14:32:45 INFO RecommenderJob: Evaluator value:MPE is 0.9743155517922665
+18/02/02 14:32:45 INFO RecommenderJob: Result path is ../result/filmtrust/rating-usercluster-output/usercluster
+
+
+
+18/02/02 14:33:03 INFO AspectModelRecommender: Job End.
+18/02/02 14:33:03 INFO RecommenderJob: Evaluator value:MSE is 0.7270102057558254
+18/02/02 14:33:03 INFO RecommenderJob: Evaluator value:RMSE is 0.852648934647681
+18/02/02 14:33:03 INFO RecommenderJob: Evaluator value:MAE is 0.6448424766664861
+18/02/02 14:33:03 INFO RecommenderJob: Evaluator value:MPE is 0.9631668077900085
+18/02/02 14:33:03 INFO RecommenderJob: Result path is ../result/filmtrust/rating-aspectmodelrating-output/aspectmodelrating
+
+
+
+18/02/02 14:33:08 INFO ASVDPlusPlusRecommender: Job End.
+18/02/02 14:33:08 INFO RecommenderJob: Evaluator value:MSE is 0.8455292253963081
+18/02/02 14:33:08 INFO RecommenderJob: Evaluator value:RMSE is 0.919526631151218
+18/02/02 14:33:08 INFO RecommenderJob: Evaluator value:MAE is 0.7134411932479577
+18/02/02 14:33:08 INFO RecommenderJob: Evaluator value:MPE is 0.7761783799040362
+18/02/02 14:33:08 INFO RecommenderJob: Result path is ../result/filmtrust/rating-asvdpp-output/asvdpp
+
+
+18/02/02 14:33:08 INFO BiasedMFRecommender: Job End.
+18/02/02 14:33:08 INFO RecommenderJob: Evaluator value:MSE is 0.6480294579314664
+18/02/02 14:33:08 INFO RecommenderJob: Evaluator value:RMSE is 0.8050027688967699
+18/02/02 14:33:08 INFO RecommenderJob: Evaluator value:MAE is 0.6226964706660117
+18/02/02 14:33:08 INFO RecommenderJob: Evaluator value:MPE is 0.9827829523003104
+18/02/02 14:33:08 INFO RecommenderJob: Result path is ../result/filmtrust/rating-biasedmf-output/biasedmf
+
+
+18/02/02 14:33:29 INFO BPMFRecommender: Job End.
+18/02/02 14:33:29 INFO RecommenderJob: Evaluator value:MSE is 0.6281718201502953
+18/02/02 14:33:29 INFO RecommenderJob: Evaluator value:RMSE is 0.7925729115673178
+18/02/02 14:33:29 INFO RecommenderJob: Evaluator value:MAE is 0.6081109317296202
+18/02/02 14:33:29 INFO RecommenderJob: Evaluator value:MPE is 0.9870166525543325
+18/02/02 14:33:29 INFO RecommenderJob: Result path is ../result/filmtrust/rating-bpmf-output/bpmf
+
+
+
+18/02/02 14:33:35 INFO BPoissMFRecommender: Job End.
+18/02/02 14:33:35 INFO RecommenderJob: Evaluator value:MSE is 1.8289585097375105
+18/02/02 14:33:35 INFO RecommenderJob: Evaluator value:RMSE is 1.3523899251833809
+18/02/02 14:33:35 INFO RecommenderJob: Evaluator value:MAE is 0.9916737228337567
+18/02/02 14:33:35 INFO RecommenderJob: Evaluator value:MPE is 0.7417442845046571
+18/02/02 14:33:35 INFO RecommenderJob: Result path is ../result/filmtrust/rating-bpoissmf-output/bpoissmf
+
+
+
+18/02/02 14:33:56 INFO FMALSRecommender: Job End.
+18/02/02 14:33:56 INFO RecommenderJob: Evaluator value:MSE is 0.7180509511504788
+18/02/02 14:33:56 INFO RecommenderJob: Evaluator value:RMSE is 0.8473788710786213
+18/02/02 14:33:56 INFO RecommenderJob: Evaluator value:MAE is 0.6465392345449336
+18/02/02 14:33:56 INFO RecommenderJob: Evaluator value:MPE is 0.9892746260231442
+18/02/02 14:33:56 INFO RecommenderJob: Result path is ../result/test/datamodeltest/ratings.arff-fmals-output/fmals
+
+
+18/02/02 14:34:11 INFO FMSGDRecommender: Job End.
+18/02/02 14:34:11 INFO RecommenderJob: Evaluator value:MSE is 0.6343312008223105
+18/02/02 14:34:11 INFO RecommenderJob: Evaluator value:RMSE is 0.796449120046165
+18/02/02 14:34:11 INFO RecommenderJob: Evaluator value:MAE is 0.6213650544860689
+18/02/02 14:34:11 INFO RecommenderJob: Evaluator value:MPE is 0.9896979960485465
+18/02/02 14:34:11 INFO RecommenderJob: Result path is ../result/test/datamodeltest/ratings.arff-fmsgd-output/fmsgd
+
+
+
+
+18/02/02 14:34:29 INFO GPLSARecommender: Job End.
+18/02/02 14:34:29 INFO RecommenderJob: Evaluator value:MSE is 0.7120263579841536
+18/02/02 14:34:29 INFO RecommenderJob: Evaluator value:RMSE is 0.8438165428481202
+18/02/02 14:34:29 INFO RecommenderJob: Evaluator value:MAE is 0.6369097938133924
+18/02/02 14:34:29 INFO RecommenderJob: Evaluator value:MPE is 0.98461755574372
+18/02/02 14:34:29 INFO RecommenderJob: Result path is ../result/filmtrust/rating-gplsa-output/gplsa
+
+
+
+18/02/02 14:34:38 INFO LDCCRecommender: Job End.
+18/02/02 14:34:38 INFO RecommenderJob: Evaluator value:MSE is 0.8455905780691007
+18/02/02 14:34:38 INFO RecommenderJob: Evaluator value:RMSE is 0.919559991555255
+18/02/02 14:34:38 INFO RecommenderJob: Evaluator value:MAE is 0.7134762776471231
+18/02/02 14:34:38 INFO RecommenderJob: Evaluator value:MPE is 0.7761783799040362
+18/02/02 14:34:38 INFO RecommenderJob: Result path is ../result/filmtrust/rating-ldcc-output/ldcc
+
+
+
+18/02/02 14:34:42 INFO LLORMARecommender: Job End.
+18/02/02 14:34:42 INFO RecommenderJob: Evaluator value:MSE is 0.8065673333128571
+18/02/02 14:34:42 INFO RecommenderJob: Evaluator value:RMSE is 0.8980909382199873
+18/02/02 14:34:42 INFO RecommenderJob: Evaluator value:MAE is 0.6576595615974836
+18/02/02 14:34:42 INFO RecommenderJob: Evaluator value:MPE is 0.9669771380186283
+18/02/02 14:34:42 INFO RecommenderJob: Result path is ../result/filmtrust/rating-llorma-output/llorma
+
+
+
+18/02/02 14:35:02 INFO MFALSRecommender: Job End.
+18/02/02 14:35:02 INFO RecommenderJob: Evaluator value:MSE is 1.1695052340257768
+18/02/02 14:35:02 INFO RecommenderJob: Evaluator value:RMSE is 1.0814366528030095
+18/02/02 14:35:02 INFO RecommenderJob: Evaluator value:MAE is 0.7940721205282353
+18/02/02 14:35:02 INFO RecommenderJob: Evaluator value:MPE is 0.9460908834321197
+18/02/02 14:35:02 INFO RecommenderJob: Result path is ../result/filmtrust/rating-mfals-output/mfals
+
+
+
+18/02/02 14:35:05 INFO NMFRecommender: Job End.
+18/02/02 14:35:05 INFO RecommenderJob: Evaluator value:MSE is 0.73951348416414
+18/02/02 14:35:05 INFO RecommenderJob: Evaluator value:RMSE is 0.8599496986243672
+18/02/02 14:35:05 INFO RecommenderJob: Evaluator value:MAE is 0.6477873835599031
+18/02/02 14:35:05 INFO RecommenderJob: Evaluator value:MPE is 0.9662715213096246
+18/02/02 14:35:05 INFO RecommenderJob: Result path is ../result/filmtrust/rating-nmf-output/nmf
+
+
+
+18/02/02 14:35:05 INFO PMFRecommender: Job End.
+18/02/02 14:35:05 INFO RecommenderJob: Evaluator value:MSE is 0.9092788500278729
+18/02/02 14:35:05 INFO RecommenderJob: Evaluator value:RMSE is 0.9535611412111301
+18/02/02 14:35:05 INFO RecommenderJob: Evaluator value:MAE is 0.7038612745225235
+18/02/02 14:35:05 INFO RecommenderJob: Evaluator value:MPE is 0.9795371154388935
+18/02/02 14:35:05 INFO RecommenderJob: Result path is ../result/filmtrust/rating-pmf-output/pmf
+
+
+
+18/02/02 14:35:48 INFO RBMRecommender: Job End.
+18/02/02 14:35:48 INFO RecommenderJob: Evaluator value:MSE is 2.103467082304226
+18/02/02 14:35:48 INFO RecommenderJob: Evaluator value:RMSE is 1.450333438318315
+18/02/02 14:35:48 INFO RecommenderJob: Evaluator value:MAE is 1.1357971913757745
+18/02/02 14:35:48 INFO RecommenderJob: Evaluator value:MPE is 0.9130674140433411
+18/02/02 14:35:48 INFO RecommenderJob: Result path is ../result/movielens/ml-100k/ratings.txt-rbm-output/rbm
+
+
+
+18/02/02 14:42:25 INFO RFRecRecommender: Job End.
+18/02/02 14:42:25 INFO RecommenderJob: Evaluator value:MSE is 0.701951739912384
+18/02/02 14:42:25 INFO RecommenderJob: Evaluator value:RMSE is 0.8378256023256774
+18/02/02 14:42:25 INFO RecommenderJob: Evaluator value:MAE is 0.6371062030716194
+18/02/02 14:42:25 INFO RecommenderJob: Evaluator value:MPE is 0.9709285915890489
+18/02/02 14:42:25 INFO RecommenderJob: Result path is ../result/filmtrust/rating-rfrec-output/rfrec
+
+
+
+18/02/02 14:42:26 INFO SVDPlusPlusRecommender: Job End.
+18/02/02 14:42:26 INFO RecommenderJob: Evaluator value:MSE is 0.6420247394001063
+18/02/02 14:42:26 INFO RecommenderJob: Evaluator value:RMSE is 0.8012644628336554
+18/02/02 14:42:26 INFO RecommenderJob: Evaluator value:MAE is 0.6159432678611797
+18/02/02 14:42:26 INFO RecommenderJob: Evaluator value:MPE is 0.9801016088060965
+18/02/02 14:42:26 INFO RecommenderJob: Result path is ../result/filmtrust/rating-svdpp-output/svdpp
+
+
+
+18/02/02 14:42:32 INFO URPRecommender: Job End.
+18/02/02 14:42:32 INFO RecommenderJob: Evaluator value:MSE is 0.8455905780691007
+18/02/02 14:42:32 INFO RecommenderJob: Evaluator value:RMSE is 0.919559991555255
+18/02/02 14:42:32 INFO RecommenderJob: Evaluator value:MAE is 0.7134762776471231
+18/02/02 14:42:32 INFO RecommenderJob: Evaluator value:MPE is 0.7761783799040362
+18/02/02 14:42:32 INFO RecommenderJob: Result path is ../result/filmtrust/rating-urp-output/urp
+
+
+
+18/02/02 14:45:22 INFO UserKNNRecommender: Job End.
+18/02/02 14:45:22 INFO RecommenderJob: Evaluator value:MSE is 0.6847018709755932
+18/02/02 14:45:22 INFO RecommenderJob: Evaluator value:RMSE is 0.8274671419310818
+18/02/02 14:45:22 INFO RecommenderJob: Evaluator value:MAE is 0.6317509677222642
+18/02/02 14:45:22 INFO RecommenderJob: Evaluator value:MPE is 0.9627434377646062
+18/02/02 14:45:22 INFO RecommenderJob: Result path is ../result/filmtrust/rating-userknn-output/userknn
+
+
+
+
+
+18/02/02 15:29:39 INFO EFMRecommender: Job End.
+18/02/02 15:29:39 INFO RecommenderJob: Evaluator value:MSE is 0.6935416273297575
+18/02/02 15:29:39 INFO RecommenderJob: Evaluator value:RMSE is 0.8327914668929777
+18/02/02 15:29:39 INFO RecommenderJob: Evaluator value:MAE is 0.5860109775502593
+18/02/02 15:29:39 INFO RecommenderJob: Evaluator value:MPE is 0.860036832412523
+
+
+
+18/02/02 15:29:53 INFO HFTRecommender: Job End.
+18/02/02 15:29:53 INFO RecommenderJob: Evaluator value:MSE is 0.8006863374414034
+18/02/02 15:29:53 INFO RecommenderJob: Evaluator value:RMSE is 0.8948107830381814
+18/02/02 15:29:53 INFO RecommenderJob: Evaluator value:MAE is 0.6166426253383172
+18/02/02 15:29:53 INFO RecommenderJob: Evaluator value:MPE is 0.9836065573770492
+
+
+
+18/02/02 15:30:45 INFO RSTERecommender: Job End.
+18/02/02 15:30:45 INFO RecommenderJob: Evaluator value:MSE is 0.661681476477767
+18/02/02 15:30:45 INFO RecommenderJob: Evaluator value:RMSE is 0.8134380593983582
+18/02/02 15:30:45 INFO RecommenderJob: Evaluator value:MAE is 0.6329567304801498
+18/02/02 15:30:45 INFO RecommenderJob: Evaluator value:MPE is 0.9899802427321479
+18/02/02 15:30:45 INFO RecommenderJob: Result path is ../result/filmtrust/rating-rste-output/rste
+
+
+
+18/02/02 15:30:46 INFO SocialMFRecommender: Job End.
+18/02/02 15:30:46 INFO RecommenderJob: Evaluator value:MSE is 0.6708377366514289
+18/02/02 15:30:46 INFO RecommenderJob: Evaluator value:RMSE is 0.8190468464327476
+18/02/02 15:30:46 INFO RecommenderJob: Evaluator value:MAE is 0.6377885622447891
+18/02/02 15:30:46 INFO RecommenderJob: Evaluator value:MPE is 0.9911092294665538
+18/02/02 15:30:46 INFO RecommenderJob: Result path is ../result/filmtrust/rating-socialmf-output/socialmf
+
+
+18/02/02 15:30:48 INFO SoRecRecommender: Job End.
+18/02/02 15:30:48 INFO RecommenderJob: Evaluator value:MSE is 0.6616929910072544
+18/02/02 15:30:48 INFO RecommenderJob: Evaluator value:RMSE is 0.8134451370604255
+18/02/02 15:30:48 INFO RecommenderJob: Evaluator value:MAE is 0.6329894146393258
+18/02/02 15:30:48 INFO RecommenderJob: Evaluator value:MPE is 0.9901213660739486
+18/02/02 15:30:48 INFO RecommenderJob: Result path is ../result/filmtrust/rating-sorec-output/sorec
+
+
+18/02/02 15:30:50 INFO SoRegRecommender: Job End.
+18/02/02 15:30:50 INFO RecommenderJob: Evaluator value:MSE is 0.7255990685871744
+18/02/02 15:30:50 INFO RecommenderJob: Evaluator value:RMSE is 0.8518210308434363
+18/02/02 15:30:50 INFO RecommenderJob: Evaluator value:MAE is 0.6554975177402177
+18/02/02 15:30:50 INFO RecommenderJob: Evaluator value:MPE is 0.9745977984758679
+18/02/02 15:30:50 INFO RecommenderJob: Result path is ../result/filmtrust/rating-soreg-output/soreg
+
+
+18/02/02 15:31:06 INFO TimeSVDRecommender: Job End.
+18/02/02 15:31:06 INFO RecommenderJob: Evaluator value:MSE is 0.843161528628104
+18/02/02 15:31:06 INFO RecommenderJob: Evaluator value:RMSE is 0.9182382744299564
+18/02/02 15:31:06 INFO RecommenderJob: Evaluator value:MAE is 0.6801403729802106
+18/02/02 15:31:06 INFO RecommenderJob: Evaluator value:MPE is 0.9391758396838837
+18/02/02 15:31:06 INFO RecommenderJob: Result path is ../result/test/datamodeltest/ratings-date.txt-timesvd-output/timesvd
+
+
+
+18/02/02 15:31:10 INFO TrustMFRecommender: Job End.
+18/02/02 15:31:10 INFO RecommenderJob: Evaluator value:MSE is 0.6846972264804367
+18/02/02 15:31:10 INFO RecommenderJob: Evaluator value:RMSE is 0.8274643354734008
+18/02/02 15:31:10 INFO RecommenderJob: Evaluator value:MAE is 0.6317010646701232
+18/02/02 15:31:10 INFO RecommenderJob: Evaluator value:MPE is 0.9912503528083545
+18/02/02 15:31:10 INFO RecommenderJob: Result path is ../result/filmtrust/rating-trustmf-output/trustmf
+
+
+
+18/02/02 15:31:21 INFO TrustSVDRecommender: Job End.
+18/02/02 15:31:21 INFO RecommenderJob: Evaluator value:MSE is 0.6271031037849762
+18/02/02 15:31:21 INFO RecommenderJob: Evaluator value:RMSE is 0.7918984175921658
+18/02/02 15:31:21 INFO RecommenderJob: Evaluator value:MAE is 0.6133142404960893
+18/02/02 15:31:21 INFO RecommenderJob: Evaluator value:MPE is 0.9901213660739486
+18/02/02 15:31:21 INFO RecommenderJob: Result path is ../result/filmtrust/rating-trustsvd-output/trustsvd
+
+
+
+18/02/02 15:31:27 INFO ExternalRecommender: Job End.
+18/02/02 15:31:27 INFO RecommenderJob: Evaluator value:MSE is 7.137242449901214
+18/02/02 15:31:27 INFO RecommenderJob: Evaluator value:RMSE is 2.6715617997533228
+18/02/02 15:31:27 INFO RecommenderJob: Evaluator value:MAE is 2.508326277166243
+18/02/02 15:31:27 INFO RecommenderJob: Evaluator value:MPE is 0.9693762348292407
+18/02/02 15:31:27 INFO RecommenderJob: Result path is ../result/filmtrust/rating-external-output/external
+
+
+
+18/02/02 15:32:01 INFO PersonalityDiagnosisRecommender: Job End.
+18/02/02 15:32:01 INFO RecommenderJob: Evaluator value:MSE is 1.0070914479254869
+18/02/02 15:32:01 INFO RecommenderJob: Evaluator value:RMSE is 1.003539460073936
+18/02/02 15:32:01 INFO RecommenderJob: Evaluator value:MAE is 0.7240333051086649
+18/02/02 15:32:01 INFO RecommenderJob: Evaluator value:MPE is 0.7695455828394017
+18/02/02 15:32:01 INFO RecommenderJob: Result path is ../result/filmtrust/rating-personalitydiagnosis-output/personalitydiagnosis
+
+
+
+
+18/02/02 15:32:28 INFO SlopeOneRecommender: Job End.
+18/02/02 15:32:28 INFO RecommenderJob: Evaluator value:MSE is 0.7073552182778465
+18/02/02 15:32:28 INFO RecommenderJob: Evaluator value:RMSE is 0.8410441238590557
+18/02/02 15:32:28 INFO RecommenderJob: Evaluator value:MAE is 0.6370345686931318
+18/02/02 15:32:28 INFO RecommenderJob: Evaluator value:MPE is 0.9613322043465989
+18/02/02 15:32:28 INFO RecommenderJob: Result path is ../result/filmtrust/rating-slopeone-output/slopeone
+
+
+

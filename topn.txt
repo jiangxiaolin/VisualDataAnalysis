@@ -1,0 +1,351 @@
+18/02/02 14:32:38 INFO MostPopularRecommender: Job End.
+18/02/02 14:32:38 INFO RecommenderJob: Evaluator value:Novelty top 10 is 11.160534440131611
+18/02/02 14:32:38 INFO RecommenderJob: Evaluator value:RR top 10 is 0.6030004635371653
+18/02/02 14:32:38 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.637761713030289
+18/02/02 14:32:38 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.34767166535122473
+18/02/02 14:32:38 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.9323629703602099
+18/02/02 14:32:38 INFO RecommenderJob: Evaluator value:Entropy top 10 is 16.24742483774977
+18/02/02 14:32:38 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.5521263644626981
+18/02/02 14:32:38 INFO RecommenderJob: Evaluator value:AP top 10 is 0.4523395548183904
+18/02/02 14:32:38 INFO RecommenderJob: Result path is ../result/filmtrust/rating-mostpopular-output/mostpopular
+
+
+
+18/02/02 14:43:05 INFO BHFreeRecommender: Job End.
+18/02/02 14:43:05 INFO RecommenderJob: Evaluator value:Novelty top 10 is 11.163713407121422
+18/02/02 14:43:05 INFO RecommenderJob: Evaluator value:RR top 10 is 0.6013270317335043
+18/02/02 14:43:05 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.6384194346824855
+18/02/02 14:43:05 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.347829518547752
+18/02/02 14:43:05 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.9327546416519377
+18/02/02 14:43:05 INFO RecommenderJob: Evaluator value:Entropy top 10 is 16.27494536747353
+18/02/02 14:43:05 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.5516821016162952
+18/02/02 14:43:05 INFO RecommenderJob: Evaluator value:AP top 10 is 0.4517463483025412
+18/02/02 14:43:05 INFO RecommenderJob: Result path is ../result/filmtrust/rating-bhfree-output/bhfree
+
+
+
+18/02/02 14:43:20 INFO BUCMRecommender: Job End.
+18/02/02 14:43:20 INFO RecommenderJob: Evaluator value:Novelty top 10 is 12.676005067662215
+18/02/02 14:43:20 INFO RecommenderJob: Evaluator value:RR top 10 is 0.5874519236792323
+18/02/02 14:43:20 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.606325337810523
+18/02/02 14:43:20 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.3397000789266002
+18/02/02 14:43:20 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.9248072181992731
+18/02/02 14:43:20 INFO RecommenderJob: Evaluator value:Entropy top 10 is 17.80491795321471
+18/02/02 14:43:20 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.5298979080498667
+18/02/02 14:43:20 INFO RecommenderJob: Evaluator value:AP top 10 is 0.43265230357687173
+18/02/02 14:43:20 INFO RecommenderJob: Result path is ../result/filmtrust/rating-bucm-output/bucm
+
+
+
+18/02/02 14:43:23 INFO ItemKNNRecommender: Job End.
+18/02/02 14:43:23 INFO RecommenderJob: Evaluator value:Novelty top 10 is 20.134198971115556
+18/02/02 14:43:23 INFO RecommenderJob: Evaluator value:RR top 10 is 0.351327658135077
+18/02/02 14:43:23 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.34329248888051583
+18/02/02 14:43:23 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.2493291239147597
+18/02/02 14:43:23 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.7857237134696629
+18/02/02 14:43:23 INFO RecommenderJob: Evaluator value:Entropy top 10 is 23.202516915135114
+18/02/02 14:43:23 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.32004196082626823
+18/02/02 14:43:23 INFO RecommenderJob: Evaluator value:AP top 10 is 0.26906083475367376
+18/02/02 14:43:23 INFO RecommenderJob: Result path is ../result/filmtrust/rating-itemknn-output/itemknn
+
+
+
+18/02/02 14:46:26 INFO AoBPRRecommender: Job End.
+18/02/02 14:46:26 INFO RecommenderJob: Evaluator value:Novelty top 10 is 18.14454543647899
+18/02/02 14:46:26 INFO RecommenderJob: Evaluator value:RR top 10 is 0.5783593916387925
+18/02/02 14:46:26 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.5955937644037759
+18/02/02 14:46:26 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.33575374901341914
+18/02/02 14:46:26 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.9064347156127498
+18/02/02 14:46:26 INFO RecommenderJob: Evaluator value:Entropy top 10 is 25.574494670707498
+18/02/02 14:46:26 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.525076455747296
+18/02/02 14:46:26 INFO RecommenderJob: Evaluator value:AP top 10 is 0.4319446736278773
+18/02/02 14:46:26 INFO RecommenderJob: Result path is ../result/filmtrust/rating-aobpr-output/aobpr
+
+
+
+18/02/02 14:46:27 INFO AspectModelRecommender: Job End.
+18/02/02 14:46:27 INFO RecommenderJob: Evaluator value:Novelty top 10 is 11.406313388961854
+18/02/02 14:46:27 INFO RecommenderJob: Evaluator value:RR top 10 is 0.6002944087395553
+18/02/02 14:46:27 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.6228564330714795
+18/02/02 14:46:27 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.34577742699289815
+18/02/02 14:46:27 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.9268735589793027
+18/02/02 14:46:27 INFO RecommenderJob: Evaluator value:Entropy top 10 is 16.551665510136896
+18/02/02 14:46:27 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.5454329551450559
+18/02/02 14:46:27 INFO RecommenderJob: Evaluator value:AP top 10 is 0.4479732267516024
+18/02/02 14:46:27 INFO RecommenderJob: Result path is ../result/filmtrust/rating-aspectmodelranking-output/aspectmodelranking
+
+
+
+
+18/02/02 14:46:29 INFO BPRRecommender: Job End.
+18/02/02 14:46:29 INFO RecommenderJob: Evaluator value:Novelty top 10 is 16.532369704446857
+18/02/02 14:46:29 INFO RecommenderJob: Evaluator value:RR top 10 is 0.5633808772127645
+18/02/02 14:46:29 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.6259966129870677
+18/02/02 14:46:29 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.3433307024467252
+18/02/02 14:46:29 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.9202142220512948
+18/02/02 14:46:29 INFO RecommenderJob: Evaluator value:Entropy top 10 is 22.465672692654852
+18/02/02 14:46:29 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.5305255969875381
+18/02/02 14:46:29 INFO RecommenderJob: Evaluator value:AP top 10 is 0.43217497314924663
+18/02/02 14:46:29 INFO RecommenderJob: Result path is ../result/filmtrust/rating-bpr-output/bpr
+
+
+
+18/02/02 14:52:55 INFO CLIMFRecommender: Job End.
+18/02/02 14:52:55 INFO RecommenderJob: Evaluator value:Novelty top 10 is 29.001673565969252
+18/02/02 14:52:55 INFO RecommenderJob: Evaluator value:RR top 10 is 0.4143411508249704
+18/02/02 14:52:55 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.41413879337414666
+18/02/02 14:52:55 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.2784530386740336
+18/02/02 14:52:55 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.8133467093918006
+18/02/02 14:52:55 INFO RecommenderJob: Evaluator value:Entropy top 10 is 35.65014929110649
+18/02/02 14:52:55 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.37488726360481867
+18/02/02 14:52:55 INFO RecommenderJob: Evaluator value:AP top 10 is 0.3093832854036697
+18/02/02 14:52:55 INFO RecommenderJob: Result path is ../result/filmtrust/rating-climf-output/climf
+
+
+
+18/02/02 14:52:57 INFO EALSRecommender: Job End.
+18/02/02 14:52:57 INFO RecommenderJob: Evaluator value:Novelty top 10 is 19.740364382038766
+18/02/02 14:52:57 INFO RecommenderJob: Evaluator value:RR top 10 is 0.5075102416657271
+18/02/02 14:52:57 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.4968905994421742
+18/02/02 14:52:57 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.2933701657458574
+18/02/02 14:52:57 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.8787488210897266
+18/02/02 14:52:57 INFO RecommenderJob: Evaluator value:Entropy top 10 is 28.491225965418128
+18/02/02 14:52:57 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.4436190629212756
+18/02/02 14:52:57 INFO RecommenderJob: Evaluator value:AP top 10 is 0.35948335491933053
+18/02/02 14:52:57 INFO RecommenderJob: Result path is ../result/filmtrust/rating-eals-output/eals
+
+
+
+18/02/02 14:53:04 INFO FISMaucRecommender: Job End.
+18/02/02 14:53:04 INFO RecommenderJob: Evaluator value:Novelty top 10 is 11.569415301996916
+18/02/02 14:53:04 INFO RecommenderJob: Evaluator value:RR top 10 is 0.5865868631062011
+18/02/02 14:53:04 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.6082224803497397
+18/02/02 14:53:04 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.341278610891872
+18/02/02 14:53:04 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.9212938164759601
+18/02/02 14:53:04 INFO RecommenderJob: Evaluator value:Entropy top 10 is 16.08687352955666
+18/02/02 14:53:04 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.5327943258696286
+18/02/02 14:53:04 INFO RecommenderJob: Evaluator value:AP top 10 is 0.43704066594043806
+18/02/02 14:53:04 INFO RecommenderJob: Result path is ../result/filmtrust/rating-fismauc-output/fismauc
+
+
+
+18/02/02 14:53:15 INFO FISMrmseRecommender: Job End.
+18/02/02 14:53:15 INFO RecommenderJob: Evaluator value:Novelty top 10 is 11.321545366788952
+18/02/02 14:53:15 INFO RecommenderJob: Evaluator value:RR top 10 is 0.584270116886534
+18/02/02 14:53:15 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.6217483925240344
+18/02/02 14:53:15 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.34356748224151706
+18/02/02 14:53:15 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.9264407638549186
+18/02/02 14:53:15 INFO RecommenderJob: Evaluator value:Entropy top 10 is 16.19870929645592
+18/02/02 14:53:15 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.538850346850737
+18/02/02 14:53:15 INFO RecommenderJob: Evaluator value:AP top 10 is 0.44153694399651744
+18/02/02 14:53:15 INFO RecommenderJob: Result path is ../result/filmtrust/rating-fismrmse-output/fismrmse
+
+
+
+18/02/02 14:53:37 INFO GBPRRecommender: Job End.
+18/02/02 14:53:37 INFO RecommenderJob: Evaluator value:Novelty top 10 is 11.35579095985411
+18/02/02 14:53:37 INFO RecommenderJob: Evaluator value:RR top 10 is 0.5886727803460247
+18/02/02 14:53:37 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.6335341768433052
+18/02/02 14:53:37 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.34514601420678886
+18/02/02 14:53:37 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.9319507708350864
+18/02/02 14:53:37 INFO RecommenderJob: Evaluator value:Entropy top 10 is 16.25358319737978
+18/02/02 14:53:37 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.5432379294470127
+18/02/02 14:53:37 INFO RecommenderJob: Evaluator value:AP top 10 is 0.44142232990860647
+18/02/02 14:53:37 INFO RecommenderJob: Result path is ../result/filmtrust/rating-gbpr-output/gbpr
+
+
+
+18/02/02 15:09:46 INFO ItemBigramRecommender: Job End.
+18/02/02 15:09:46 INFO RecommenderJob: Evaluator value:Novelty top 10 is 37.09805994088312
+18/02/02 15:09:46 INFO RecommenderJob: Evaluator value:RR top 10 is 0.46651911291942894
+18/02/02 15:09:46 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.3035209739627748
+18/02/02 15:09:46 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.140901898734176
+18/02/02 15:09:46 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.8571843637800435
+18/02/02 15:09:46 INFO RecommenderJob: Evaluator value:Entropy top 10 is 9.471374796795995
+18/02/02 15:09:46 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.2767214861785457
+18/02/02 15:09:46 INFO RecommenderJob: Evaluator value:AP top 10 is 0.1702310964015819
+18/02/02 15:09:46 INFO RecommenderJob: Result path is ../result/test/datamodeltest/ratings-date.txt-itembigram-output/itembigram
+
+
+
+18/02/02 15:09:47 INFO LDARecommender: Job End.
+18/02/02 15:09:47 INFO RecommenderJob: Evaluator value:Novelty top 10 is 11.92493631107463
+18/02/02 15:09:47 INFO RecommenderJob: Evaluator value:RR top 10 is 0.625072662582529
+18/02/02 15:09:47 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.6470414428852835
+18/02/02 15:09:47 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.3494080505130241
+18/02/02 15:09:47 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.9374707435280387
+18/02/02 15:09:47 INFO RecommenderJob: Evaluator value:Entropy top 10 is 17.64425992728804
+18/02/02 15:09:47 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.5666109561442564
+18/02/02 15:09:47 INFO RecommenderJob: Evaluator value:AP top 10 is 0.46725754866096275
+18/02/02 15:09:47 INFO RecommenderJob: Result path is ../result/filmtrust/rating-lda-output/lda
+18/02/02 15:09:47 INFO TextDataConvertor: Dataset: ../data/filmtrust/rating
+
+
+
+18/02/02 15:09:58 INFO ListRankMFRecommender: Job End.
+18/02/02 15:09:58 INFO RecommenderJob: Evaluator value:Novelty top 10 is 30.108700870883734
+18/02/02 15:09:58 INFO RecommenderJob: Evaluator value:RR top 10 is 0.4497337793312534
+18/02/02 15:09:58 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.2699967001420444
+18/02/02 15:09:58 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.13472770323598965
+18/02/02 15:09:58 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.8254984109000907
+18/02/02 15:09:58 INFO RecommenderJob: Evaluator value:Entropy top 10 is 29.610299567323054
+18/02/02 15:09:58 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.26352201952080845
+18/02/02 15:09:58 INFO RecommenderJob: Evaluator value:AP top 10 is 0.16758243693279573
+18/02/02 15:09:58 INFO RecommenderJob: Result path is ../result/filmtrust/rating-listrankmf-output/listrankmf
+
+
+
+18/02/02 15:09:59 INFO PLSARecommender: Job End.
+18/02/02 15:09:59 INFO RecommenderJob: Evaluator value:Novelty top 10 is 16.895902311783992
+18/02/02 15:09:59 INFO RecommenderJob: Evaluator value:RR top 10 is 0.5909942245774928
+18/02/02 15:09:59 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.6009877058588176
+18/02/02 15:09:59 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.33662194159431846
+18/02/02 15:09:59 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.9150465737955156
+18/02/02 15:09:59 INFO RecommenderJob: Evaluator value:Entropy top 10 is 25.096632257035207
+18/02/02 15:09:59 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.5345636149430958
+18/02/02 15:09:59 INFO RecommenderJob: Evaluator value:AP top 10 is 0.44205848060233166
+18/02/02 15:09:59 INFO RecommenderJob: Result path is ../result/filmtrust/rating-plsa-output/plsa
+
+
+
+18/02/02 15:21:07 INFO RankALSRecommender: Job End.
+18/02/02 15:21:07 INFO RecommenderJob: Evaluator value:Novelty top 10 is 24.444940761560314
+18/02/02 15:21:07 INFO RecommenderJob: Evaluator value:RR top 10 is 0.5877037371117878
+18/02/02 15:21:07 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.5284809881639609
+18/02/02 15:21:07 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.2930544593528024
+18/02/02 15:21:07 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.8936274997821485
+18/02/02 15:21:07 INFO RecommenderJob: Evaluator value:Entropy top 10 is 29.39916556379024
+18/02/02 15:21:07 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.49166152212240827
+18/02/02 15:21:07 INFO RecommenderJob: Evaluator value:AP top 10 is 0.39962478955889985
+18/02/02 15:21:07 INFO RecommenderJob: Result path is ../result/filmtrust/rating-rankals-output/rankals
+
+
+
+18/02/02 15:21:16 INFO RankSGDRecommender: Job End.
+18/02/02 15:21:16 INFO RecommenderJob: Evaluator value:Novelty top 10 is 42.405260756999624
+18/02/02 15:21:16 INFO RecommenderJob: Evaluator value:RR top 10 is 0.445244672454617
+18/02/02 15:21:16 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.3631150239585501
+18/02/02 15:21:16 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.21373322809786835
+18/02/02 15:21:16 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.811385063324553
+18/02/02 15:21:16 INFO RecommenderJob: Evaluator value:Entropy top 10 is 42.56043252873631
+18/02/02 15:21:16 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.3436796362949906
+18/02/02 15:21:16 INFO RecommenderJob: Evaluator value:AP top 10 is 0.2586556077457435
+18/02/02 15:21:16 INFO RecommenderJob: Result path is ../result/filmtrust/rating-ranksgd-output/ranksgd
+
+
+
+18/02/02 15:27:03 INFO SLIMRecommender: Job End.
+18/02/02 15:27:03 INFO RecommenderJob: Evaluator value:Novelty top 10 is 18.751762432066293
+18/02/02 15:27:03 INFO RecommenderJob: Evaluator value:RR top 10 is 0.6586315004823299
+18/02/02 15:27:03 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.6494652622780434
+18/02/02 15:27:03 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.3546172059984226
+18/02/02 15:27:03 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.9328229162380195
+18/02/02 15:27:03 INFO RecommenderJob: Evaluator value:Entropy top 10 is 27.186979191043267
+18/02/02 15:27:03 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.5897359098872108
+18/02/02 15:27:03 INFO RecommenderJob: Evaluator value:AP top 10 is 0.4955350893755723
+18/02/02 15:27:03 INFO RecommenderJob: Result path is ../result/filmtrust/rating-slim-output/slim
+
+
+
+18/02/02 15:29:31 INFO WBPRRecommender: Job End.
+18/02/02 15:29:31 INFO RecommenderJob: Evaluator value:Novelty top 10 is 18.793224453840274
+18/02/02 15:29:31 INFO RecommenderJob: Evaluator value:RR top 10 is 0.2810588692198794
+18/02/02 15:29:31 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.27581908882095807
+18/02/02 15:29:31 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.22699289660615612
+18/02/02 15:29:31 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.7275384122129623
+18/02/02 15:29:31 INFO RecommenderJob: Evaluator value:Entropy top 10 is 17.548868727457272
+18/02/02 15:29:31 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.26483508063076955
+18/02/02 15:29:31 INFO RecommenderJob: Evaluator value:AP top 10 is 0.22751119556097998
+18/02/02 15:29:31 INFO RecommenderJob: Result path is ../result/filmtrust/rating-wbpr-output/wbpr
+
+
+
+18/02/02 15:29:36 INFO WRMFRecommender: Job End.
+18/02/02 15:29:36 INFO RecommenderJob: Evaluator value:Novelty top 10 is 15.654470311176437
+18/02/02 15:29:36 INFO RecommenderJob: Evaluator value:RR top 10 is 0.6347872113854757
+18/02/02 15:29:36 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.6341464251290702
+18/02/02 15:29:36 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.3456985003946344
+18/02/02 15:29:36 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.9230535402989238
+18/02/02 15:29:36 INFO RecommenderJob: Evaluator value:Entropy top 10 is 24.249124296947112
+18/02/02 15:29:36 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.5753609458360556
+18/02/02 15:29:36 INFO RecommenderJob: Evaluator value:AP top 10 is 0.4861256451190488
+18/02/02 15:29:36 INFO RecommenderJob: Result path is ../result/filmtrust/rating-wrmf-output/wrmf
+
+
+
+18/02/02 15:30:42 INFO SBPRRecommender: Job End.
+18/02/02 15:30:42 INFO RecommenderJob: Evaluator value:Novelty top 10 is 15.606520791360454
+18/02/02 15:30:42 INFO RecommenderJob: Evaluator value:RR top 10 is 0.6058346174565595
+18/02/02 15:30:42 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.618284405528982
+18/02/02 15:30:42 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.34246250986582605
+18/02/02 15:30:42 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.9209523980823449
+18/02/02 15:30:42 INFO RecommenderJob: Evaluator value:Entropy top 10 is 24.48638057933025
+18/02/02 15:30:42 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.548731656985866
+18/02/02 15:30:42 INFO RecommenderJob: Evaluator value:AP top 10 is 0.45459605537529113
+18/02/02 15:30:42 INFO RecommenderJob: Result path is ../result/filmtrust/rating-sbpr-output/sbpr
+
+
+
+18/02/02 15:31:27 INFO AssociationRuleRecommender: Job End.
+18/02/02 15:31:27 INFO RecommenderJob: Evaluator value:Novelty top 10 is 12.1866507300593
+18/02/02 15:31:27 INFO RecommenderJob: Evaluator value:RR top 10 is 0.6257911451873575
+18/02/02 15:31:27 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.6392139521065934
+18/02/02 15:31:27 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.34901341752170595
+18/02/02 15:31:27 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.9304241144302193
+18/02/02 15:31:27 INFO RecommenderJob: Evaluator value:Entropy top 10 is 18.397435872460637
+18/02/02 15:31:27 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.5642790891616347
+18/02/02 15:31:27 INFO RecommenderJob: Evaluator value:AP top 10 is 0.46691327201756755
+18/02/02 15:31:27 INFO RecommenderJob: Result path is ../result/filmtrust/rating-associationrule-output/associationrule
+
+
+
+18/02/02 15:32:28 INFO PRankDRecommender: Job End.
+18/02/02 15:32:28 INFO RecommenderJob: Evaluator value:Novelty top 10 is 59.099315494844234
+18/02/02 15:32:28 INFO RecommenderJob: Evaluator value:RR top 10 is 0.23797340298918834
+18/02/02 15:32:28 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.23822545055715122
+18/02/02 15:32:28 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.18934490923441186
+18/02/02 15:32:28 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.6681597711826689
+18/02/02 15:32:28 INFO RecommenderJob: Evaluator value:Entropy top 10 is 41.296936747050715
+18/02/02 15:32:28 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.22906707521737615
+18/02/02 15:32:28 INFO RecommenderJob: Evaluator value:AP top 10 is 0.20418428557806836
+18/02/02 15:32:28 INFO RecommenderJob: Result path is ../result/filmtrust/rating-prankd-output/prankd
+
+
+18/02/02 15:32:32 INFO HybridRecommender: Job End.
+18/02/02 15:32:32 INFO RecommenderJob: Evaluator value:Novelty top 10 is 53.201819807834134
+18/02/02 15:32:32 INFO RecommenderJob: Evaluator value:RR top 10 is 0.4690360306185086
+18/02/02 15:32:32 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.515992651000919
+18/02/02 15:32:32 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.32288871349644915
+18/02/02 15:32:32 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.8663953009531875
+18/02/02 15:32:32 INFO RecommenderJob: Evaluator value:Entropy top 10 is 38.8272717455746
+18/02/02 15:32:32 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.44521751228378487
+18/02/02 15:32:32 INFO RecommenderJob: Evaluator value:AP top 10 is 0.36280418569982864
+18/02/02 15:32:32 INFO RecommenderJob: Result path is ../result/filmtrust/rating-hybrid-output/hybrid
+
+
+18/02/05 15:24:27 INFO NMFItemItemRecommender: Job End.
+18/02/05 15:24:27 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.6376629615062142
+18/02/05 15:24:27 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.5728173701929217
+18/02/05 15:24:27 INFO RecommenderJob: Evaluator value:AP top 10 is 0.47812240503205233
+18/02/05 15:24:27 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.9289174079404597
+18/02/05 15:24:27 INFO RecommenderJob: Evaluator value:RR top 10 is 0.638907054534522
+18/02/05 15:24:27 INFO RecommenderJob: Evaluator value:Novelty top 10 is 13.37153014844148
+18/02/05 15:24:27 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.3478295185477518
+18/02/05 15:24:27 INFO RecommenderJob: Evaluator value:Entropy top 10 is 19.937119707405397
+18/02/05 15:24:27 INFO RecommenderJob: Result path is ../result/filmtrust/rating-nmfitemitem-output/nmfitemitem
+
+
+
+
+18/02/05 15:29:51 INFO PNMFRecommender: Job End.
+18/02/05 15:29:51 INFO RecommenderJob: Evaluator value:Novelty top 10 is 14.772483261536017
+18/02/05 15:29:51 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.629148554132635
+18/02/05 15:29:51 INFO RecommenderJob: Evaluator value:Entropy top 10 is 19.79333850385435
+18/02/05 15:29:51 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.34735595895817023
+18/02/05 15:29:51 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.9280948654501264
+18/02/05 15:29:51 INFO RecommenderJob: Evaluator value:RR top 10 is 0.6114409115395704
+18/02/05 15:29:51 INFO RecommenderJob: Evaluator value:AP top 10 is 0.45893844993052907
+18/02/05 15:29:51 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.5557099556213133
+18/02/05 15:29:51 INFO RecommenderJob: Result path is ../result/filmtrust/rating-pnmf-output/pnmf
+
+
